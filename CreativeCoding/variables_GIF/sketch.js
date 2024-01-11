@@ -1,4 +1,4 @@
-let gif
+let gif;
 
 function preload (){
 gif = loadImage ('assets/TuGIF.gif');
