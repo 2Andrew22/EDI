@@ -1,7 +1,7 @@
 let gif;
 
 function preload (){
-gif = loadImage ('assets/TuGIF.gif');
+gif = loadImage ('assets/TuGIF3.gif');
 
 }
 
@@ -13,6 +13,7 @@ function setup() {
 
 function draw() {
 
+background ('blue');
   var num = 20; //# of squares
   var sideLen = windowWidth/num; //side length of square
   
