@@ -13,7 +13,7 @@ function setup() {
 
 function draw() {
 
-background ('blue');
+background ('white');
   var num = 6; //# of squares
   var sideLen = windowWidth/num; //side length of square
   
