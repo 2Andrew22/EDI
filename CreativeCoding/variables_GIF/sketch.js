@@ -14,7 +14,7 @@ function setup() {
 function draw() {
 
 background ('white');
-  var num = 6; //# of squares
+  var num = 10; //# of squares
   var sideLen = windowWidth/num; //side length of square
   
   for (var y = 0; y < windowHeight; y = y + sideLen){
