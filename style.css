@@ -26,6 +26,12 @@ h1{
      top: 0%;
 }
 
+h3{
+color: black;
+display: inline; background: white;
+font-size: 2vw;
+}
+
 p{
     position: absolute;
     font-size: 0.875em;
