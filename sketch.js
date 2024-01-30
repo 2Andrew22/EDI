@@ -1,7 +1,7 @@
 let gif;
 
 function preload (){
-gif = loadImage ('assets/TuGIF3.gif');
+gif = loadImage ('MainAssets/TuGIF3.gif');
 
 }
 
